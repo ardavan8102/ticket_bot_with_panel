@@ -86,4 +86,4 @@ async def on_raw_reaction_add(payload):
                 await channel.delete()
 
 
-bot.run('ODQwMTQwMDI3OTM3MDMwMTc2.GVI92v.NcrHNAohkZbl7oLEMOAbJI0n70zRgzMWIjo1Ww')
+bot.run('BOTTOKEN')
